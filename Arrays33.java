@@ -18,6 +18,6 @@ public class Arrays33 {
         int r = sc.nextInt();
         int c =sc.nextInt();
 
-        System.err.println(""+nCr(r - 1, c - 1)); 
+        System.out.println(nCr(r - 1, c - 1)); 
     }
 }
